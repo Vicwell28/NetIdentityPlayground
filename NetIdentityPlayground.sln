@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C8CF80E9-51EC-4EFA-A58A-D99A499867EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9AECB900-B3C4-4008-88DF-44F88055894D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetIdentityPlayground", "src\NetIdentityPlayground\NetIdentityPlayground.csproj", "{B8A14129-5330-4492-81BE-951C0DFF67E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A14129-5330-4492-81BE-951C0DFF67E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A14129-5330-4492-81BE-951C0DFF67E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A14129-5330-4492-81BE-951C0DFF67E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A14129-5330-4492-81BE-951C0DFF67E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8A14129-5330-4492-81BE-951C0DFF67E4} = {C8CF80E9-51EC-4EFA-A58A-D99A499867EE}
+	EndGlobalSection
+EndGlobal
